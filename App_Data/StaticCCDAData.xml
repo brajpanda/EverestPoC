@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section>
+
+  <item key="ClinicalDocumentTypeIdRoot" value="2.16.840.1.113883.1.3"/>
+  <item key="ClinicalDocumentTypeIdExtension" value="POCD_HD000040"/>
+
+  <item key="ClinicalDocumentTemplateIDRoot1" value="2.16.840.1.113883.3.27.1776"/>
+  <item key="ClinicalDocumentTemplateIDAssigningAuthorityName1" value="CDA/R2"/>
+  <item key="ClinicalDocumentTemplateIDRoot2" value="2.16.840.1.113883.10.20.3"/>
+  <item key="ClinicalDocumentTemplateIDAssigningAuthorityName2" value="HL7/CDT Header"/>
+  <item key="ClinicalDocumentTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.1.1"/>
+  <item key="ClinicalDocumentTemplateIDAssigningAuthorityName3" value="IHE/PCC"/>
+  <item key="ClinicalDocumentTemplateIDRoot4" value="2.16.840.1.113883.3.88.11.32.1"/>
+  <item key="ClinicalDocumentTemplateIDAssigningAuthorityName4" value="HITSP/C32"/>
+
+  <item key="ClinicalDocumentIDRoot" value="2.16.840.1.113883.3.72"/>
+  <item key="ClinicalDocumentIDExtension" value="170.306-(f)_DataSet-1"/>
+  <item key="ClinicalDocumentIDAssigningAuthorityName" value="Life Care Center Of America"/>
+
+  <item key="ClinicalDocumentCodeCode" value="34133-9"/>
+  <item key="ClinicalDocumentCodeDisplayName" value="Summarization of episode note"/>
+  <item key="ClinicalDocumentCodeCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="ClinicalDocumentCodeCodeSystemName" value="LOINC"/>
+
+  <item key="ClinicalSummaryTitle" value="Clinical Summary"/>
+  <item key="PatientHealthSummaryTitle" value="Patient Health Summary"/>
+
+  <item key="ClinicalDocumentConfidentialityCodeCode" value="N"/>
+  <item key="ClinicalDocumentConfidentialityCodeDisplayName" value="Normal"/>
+  <item key="ClinicalDocumentConfidentialityCodeCodeSystem" value="2.16.840.1.113883.5.25"/>
+  <item key="ClinicalDocumentConfidentialityCodeCodeSystemName" value="Confidentiality"/>
+
+  <item key="ClinicalDocumentLanguageCode" value="en-US"/>
+
+  <item key="RecordTargetPatientRoleIDRoot" value="1.3.6.4.1.4.1.2835.3"/>
+  <item key="RecordTargetPatientRoleIDAssigningAuthorityName" value="Provider Name"/>
+
+  <item key="RecordTargetPatientRoleTelecomUse" value="HP"/>
+
+  <item key="GenderCodeCodeSystem" value="2.16.840.1.113883.5.1"/>
+  <item key="GenderCodeCodeSystemName" value="HL7 AdministrativeGender"/>
+
+  <item key="MaritalStatusCodeCode" value="S"/>
+  <item key="MaritalStatusCodeSystem" value="2.16.840.1.113883.5.2"/>
+  <item key="MaritalStatusCodeSystemName" value="HL7 Marital status"/>
+  <item key="MaritalStatusCodeDisplayName" value="Single"/>
+
+  <item key="AssignedAuthorIdRoot" value="2.16.840.1.113883.1.3"/>
+  <item key="AssignedAuthorTelecomValue" value="tel:+1-301-975-3251"/>
+  <item key="AssignedAuthorTelecomUse" value="HP"/>
+
+  <item key="RepresentedOrganizationIdRoot" value="2.16.840.1.113883.19.5"/>
+  <item key="RepresentedOrganizationName" value="Life Care Centers of America"/>
+  <item key="RepresentedOrganizationTelecomValue" value="tel:+1-301-975-3251"/>
+  <item key="RepresentedOrganizationTelecomUse" value="HP"/>
+
+
+  <item key="RepresentedCustodianOrganizationId" value="2.16.840.1.113883.19.5"/>
+  <item key="RepresentedCustodianOrganizationName" value="Life Care Centers of America"/>
+  <item key="RepresentedCustodianOrganizationTelecomValue" value="tel:+1-301-975-3251"/>
+  <item key="RepresentedCustodianOrganizationTelecomUse" value="HP"/>
+
+  <item key="AllergiesSectionTemplateIdRoot" value="2.16.840.1.113883.10.20.1.2"/>
+  <item key="AllergiesTemplateIdRootAssigningAuthorityName" value="HITSP/C83"/>
+  <item key="AllergiesTitle" value="Allergies and Adverse Reactions"/>
+  <item key="AllergiesCodeCode" value="48765-2"/>
+  <item key="AllergiesCodeCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="AllergiesCodeCodeSystemName" value="LOINC"/>
+  <item key="AllergiesCodeDisplayName" value="Allergy"/>
+
+  <item key="ProblemsSectionTemplateIdRoot1" value="2.16.840.1.113883.3.88.11.83.103"/>
+  <item key="ProblemsSectionTemplateIdRootAssigningAuthorityName1" value="HITSP/C83"/>
+  <item key="ProblemsSectionTemplateIdRoot2" value="1.3.6.1.4.1.19376.1.5.3.1.3.6"/>
+  <item key="ProblemsSectionTemplateIdRootAssigningAuthorityName2" value="IHE PCC"/>
+  <item key="ProblemsSectionTemplateIdRoot3" value="2.16.840.1.113883.10.20.1.11"/>
+  <item key="ProblemsSectionTemplateIdRootAssigningAuthorityName3" value="HL7 CCD"/>
+  <item key="ProblemsTitle" value="Problems"/>
+  <item key="ProblemsSectionCodeCode" value="11450-4"/>
+  <item key="ProblemsSectionCodeCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="ProblemsSectionCodeCodeSystemName" value="LOINC"/>
+  <item key="ProblemsSectionCodeDisplayName" value="Problem List"/>
+
+  <item key="ActIdRoot" value="6a2fa88d-4174-4909-aece-db44b60a3abb"/>
+  <item key="ProblemsActTemplateIDRoot1" value="2.16.840.1.113883.3.88.11.83.7"/>
+  <item key="ProblemsActTemplateIDRootAssigningAuthorityName1" value="HITSP/C83"/>
+  <item key="ProblemsActTemplateIDRoot2" value="2.16.840.1.113883.10.20.1.27"/>
+  <item key="ProblemsActTemplateIDRootAssigningAuthorityName2" value="CCD"/>
+  <item key="ProblemsActTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.5.1"/>
+  <item key="ProblemsActTemplateIDRootAssigningAuthorityName3" value="IHE PCC"/>
+  <item key="ProblemsActTemplateIDRoot4" value="1.3.6.1.4.1.19376.1.5.3.1.4.5.2"/>
+  <item key="ProblemsActTemplateIDRootAssigningAuthorityName4" value="IHE PCC"/>
+
+  <item key="ProblemActEntryRelationshipIdRoot" value="d11275e7-67ae-11db-bd13-0800200c9a66"/>
+  <item key="ProblemActEntryRelationshipObservationCode" value="64572001"/>
+  <item key="ProblemActEntryRelationshipObservationCodeSystem" value="2.16.840.1.113883.6.96"/>
+  <item key="ProblemActEntryRelationshipObservationDisplayName" value="Condition"/>
+  <item key="ProblemActEntryRelationshipObservationCodeSystemName" value="SNOMED CT"/>
+  <item key="ProblemsActEntryRelationShipTemplateIDRoot1" value="2.16.840.1.113883.10.20.1.28"/>
+  <item key="ProblemsActEntryRelationShipTemplateIDRootAssigningAuthorityName1" value="CCD"/>
+  <item key="ProblemsActEntryRelationShipTemplateIDRoot2" value="1.3.6.1.4.1.19376.1.5.3.1.4.5"/>
+  <item key="ProblemsActEntryRelationShipTemplateIDRootAssigningAuthorityName2" value="IHE PCC"/>
+  <item key="ProblemsActEntryRelationShipObservationTemplateIDRoot1" value="2.16.840.1.113883.10.20.1.50"/>
+  <item key="ProblemActEntryRelationShipEntryRelationShipValueCode" value="55561003"/>
+  <item key="ProblemActEntryRelationShipEntryRelationShipValueCodeSystem" value="2.16.840.1.113883.6.96"/>
+  <item key="ProblemActEntryRelationShipEntryRelationShipCodeCode" value="33999-4"/>
+  <item key="ProblemActEntryRelationShipEntryRelationShipCodeCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="ProblemActEntryRelationShipEntryRelationShipCodeDisplayName" value="Status"/>
+  <item key="ProblemActEntryRelationShipValueCode" value="428.0"/>
+  <item key="ProblemActEntryRelationShipValueCodeSystemName" value="2.16.840.1.113883.6.103"/>
+
+  <item key="MedicationsSectionTemplateIdRoot" value="2.16.840.1.113883.10.20.1.8"/>
+  <item key="MedicationsTemplateIdRootAssigningAuthorityName" value="HITSP/C83"/>
+  <item key="MedicationsTitle" value="Medications"/>
+  <item key="MedicationIdRoot" value="cdbd33f0-6cde-11db-9fe1-0800200c9a66"/>
+  <item key="MedicationStatusCodeCode" value="completed"/>
+  <item key="EffectiveTimePeriodValue" value="6"/>
+  <item key="EffectiveTimePeriodUnit" value="h"/>
+  <item key="MedicationRouteCodeCode" value="C38216"/>
+  <item key="MedicationRouteCodeDisplayName" value="Respiratory (Inhalation)"/>
+  <item key="MedicationDoseQuantityValue" value="2"/>
+  <item key="MedicationDoseQuantityUnits" value="puffs"/>
+  <item key="PreconditionValueCode" value="56018004"/>
+  <item key="PreconditionValueDisplayName" value="Wheezing"/>
+
+  <item key="ResultsTitle" value="Results"/>
+  <item key="ResultsSectionTemplateIDRoot1" value="2.16.840.1.113883.3.88.11.83.122"/>
+  <item key="ResultsSectionTemplateIDAssigningAuthorityName1" value="HITSP/C83"/>
+  <item key="ResultsSectionTemplateIDRoot2" value="1.3.6.1.4.1.19376.1.5.3.1.3.28"/>
+  <item key="ResultsSectionTemplateIDAssigningAuthorityName2" value="IHE PCC"/>
+  <item key="ResultsSectionCode" value="30954-2"/>
+  <item key="ResultsSectionCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="ResultsSectionCodeSystemName" value="LOINC"/>
+  <item key="ResultsSectionCodeDisplayName" value="Results"/>
+  <item key="ResultsSectionProcedureTemplateIDRoot1" value="1.3.6.1.4.1.19376.1.5.3.1.4.19"/>
+  <item key="ResultsSectionProcedureTemplateIDRoot2" value="2.16.840.1.113883.10.20.1.29"/>
+  <item key="ResultsSectionProcedureTemplateIDRoot3" value="2.16.840.1.113883.3.88.11.83.17"/>
+  <item key="ResultsSectionProcedureIDRoot" value="4b30dfed-1544-4c82-8e9d-7093461a04fd"/>
+  <item key="ResultsSectionObservationTemplateIDRoot1" value="2.16.840.1.113883.10.20.1.31"/>
+  <item key="ResultsSectionObservationTemplateIDRoot2" value="2.16.840.1.113883.3.88.11.83.15.1"/>
+  <item key="ResultsSectionObservationTemplateIDAssigningAuthorityName2" value="HITSP C83"/>
+  <item key="ResultsSectionObservationTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.13"/>
+  <item key="ResultsSectionObservationTemplateIDAssigningAuthorityName3" value="IHE PCC"/>
+  <item key="ResultsSectionObservationCodeCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="ResultsSectionObservationInterpretationCodeCodeSystem" value="2.16.840.1.113883.5.83"/>
+
+  <item key="MedicationsDetailsSectionTemplateIdRoot1" value="2.16.840.1.113883.3.88.11.83.112"/>
+  <item key="MedicationsDetailsSectionTemplateIdRoot2" value="1.3.6.1.4.1.19376.1.5.3.1.3.19"/>
+  <item key="MedicationsDetailsSectionTemplateIdRoot3" value="2.16.840.1.113883.10.20.1.8"/>
+  <item key="MedicationsDetailsSectionAuthorityName1" value="HITSP/C83"/>
+  <item key="MedicationsDetailsSectionAuthorityName2" value="IHE PCC"/>
+  <item key="MedicationsDetailsSectionAuthorityName3" value="HL7 CCD"/>
+  <item key="MedicationsDetailsSectionDocumentCode" value="10160-0"/>
+  <item key="MedicationsDetailsSectionDocumentCodeSystem" value="2.16.840.1.113883.6.1"/>
+  <item key="MedicationsDetailsSectionDocumentCodeSystemName" value="LOINC"/>
+  <item key="MedicationsDetailsSectionDocumentDisplayName" value="History of medication use"/>
+
+  <item key="MedicationsEntrySectionManufacturedTemplateIDRoot1" value="2.16.840.1.113883.3.88.11.83.8.2"/>
+  <item key="MedicationsEntrySectionManufacturedTemplateIDRoot2" value="2.16.840.1.113883.10.20.1.53"/>
+  <item key="MedicationsEntrySectionManufacturedTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.7.2"/>
+  <item key="MedicationsEntrySectionManufacturedTemplateIDAuthorityName1" value="HITSP/C83"/>
+  <item key="MedicationsEntrySectionManufacturedTemplateIDAuthorityName2" value="CCD"/>
+  <item key="MedicationsEntrySectionManufacturedTemplateIDAuthorityName3" value="IHE PCC"/>
+  <item key="MedicationsEntrySectionCriterionCode" value="ASSERTION"/>
+  <item key="MedicationsEntrySectionCriterionCodeSystem" value="2.16.840.1.113883.5.4"/>
+  <item key="MedicationsEntrySectionCriterionValueXsitype" value="CE"/>
+  <item key="MedicationsEntrySectionCriterionValueCodeSystem" value="2.16.840.1.113883.6.96"/>
+  <item key="MedicationsEntrySectionEffectiveTimeXsistype1" value="IVL_TS"/>
+  <item key="MedicationsEntrySectionEffectiveTimeNull" value="UNK"/>
+  <item key="MedicationsEntrySectionEffectiveTimeXsistype2" value="PIVL_TS"/>
+  <item key="MedicationsEntrySectionEffectiveInstitutionSpecified" value="false"/>
+  <item key="MedicationsEntrySectionEffectiveTimeOperator" value="A"/>
+  <item key="MedicationsEntrySectionTypeIdentifierRoot" value="2.16.840.1.113883.3.88.11.83.8.1"/>
+  <item key="MedicationsEntrySectionTypeIdentifierAuthorityName" value="HITSP C83"/>
+  <item key="MedicationsEntrySectionRelationshipCode1" value="REFR"/>
+  <item key="MedicationsEntrySectionObservationClassCode1" value="OBS"/>
+  <item key="MedicationsEntrySectionObservationMoodCode1" value="EVN"/>
+  <item key="MedicationsEntrySectionObservationCode1" value="73639000"/>
+  <item key="MedicationsEntrySectionObservationCodeSystem1" value="2.16.840.1.113883.6.96"/>
+  <item key="MedicationsEntrySectionObservationCodeSystemName1" value="SNOMED CT"/>
+  <item key="MedicationsEntrySectionObservationDisplayName1" value="Prescription Drug"/>
+  <item key="MedicationsEntrySectionTypeIdentifierRoot1" value="2.16.840.1.113883.10.20.1.47"/>
+  <item key="MedicationsEntrySectionRelationshipCode2" value="SUBJ"/>
+  <item key="MedicationsEntrySectionObservationValueXsitype" value="CE"/>
+  <item key="MedicationsEntrySectionObservationValueDisplayName" value="Active"/>
+  <item key="MedicationsEntrySectionObservationValueCode" value="55561003"/>
+  <item key="MedicationsEntrySectionObservationValueCodeSystem" value="2.16.840.1.113883.6.96"/>
+  <item key="MedicationsEntrySectionObservationValueCodeSystemName" value="SNOMED CT"/>
+  <item key="MedicationsEntrySectionTemplateIdRoot1" value="2.16.840.1.113883.3.88.11.83.8"/>
+  <item key="MedicationsEntrySectionTemplateIdRoot2" value="2.16.840.1.113883.10.20.1.24"/>
+  <item key="MedicationsEntrySectionTemplateIdRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.7"/>
+  <item key="MedicationsEntrySectionTemplateIdRoot4" value="1.3.6.1.4.1.19376.1.5.3.1.4.7.1"/>
+  <item key="MedicationsEntrySectionTemplateIdAuthorityName1" value="HITSP/C83"/>
+  <item key="MedicationsEntrySectionTemplateIdAuthorityName2" value="CCD"/>
+  <item key="MedicationsEntrySectionTemplateIdAuthorityName3" value="IHE PCC"/>
+  <item key="MedicationsEntrySectionTemplateIdAuthorityName4" value="IHE PCC"/>
+  <item key="MedicationsEntrySectionAdministrationClassCode" value="SBADM"/>
+  <item key="MedicationsEntrySectionAdministrationMoodCode" value="EVN"/>
+
+  <item key="AllergiesDetailsSectionRoot1" value="2.16.840.1.113883.3.88.11.83.102"/>
+  <item key="AllergiesDetailsSectionRoot2" value="1.3.6.1.4.1.19376.1.5.3.1.3.13"/>
+  <item key="AllergiesDetailsSectionRoot3" value="2.16.840.1.113883.10.20.1.2"/>
+  <item key="AllergiesDetailsSectionAuthorityName1" value="HITSP/C83"/>
+  <item key="AllergiesDetailsSectionAuthorityName2" value="IHE PCC"/>
+  <item key="AllergiesDetailsSectionAuthorityName3" value="HL7 CCD"/>
+
+  <item key="AllergiesEntrySectionDocumentCodeXsitype" value="CD"/>
+  <item key="AllergiesEntrySectionDocumentCode" value="70618"/>
+  <item key="AllergiesEntrySectionDocumentCodeSystem" value="2.16.840.1.113883.6.88"/>
+  <item key="AllergiesEntrySectionPlayingEntityClassCode" value="MMAT"/>
+  <item key="AllergiesEntrySectionPlayingEntityClassCodeSystem" value="2.16.840.1.113883.6.88"/>
+  <item key="AllergiesEntrySectionPlayingEntityClassCodeSystemName" value="RxNorm"/>
+  <item key="AllergiesEntrySectionParticipantEntityClassCode" value="MANU"/>
+  <item key="AllergiesEntrySectionRelationshipXsitype" value="CD"/>
+  <item key="AllergiesEntrySectionRelationshipCodeSystem" value="2.16.840.1.113883.6.96"/>
+  <item key="AllergiesEntrySectionAlertsTemplateIDRoot" value="2.16.840.1.113883.10.20.1.54"/>
+  <item key="AllergiesEntrySectionObservationClassCode" value="OBS"/>
+  <item key="AllergiesEntrySectionObservationMoodCode" value="EVN"/>
+  <item key="AllergiesEntrySectionObservationCode" value="ASSERTION"/>
+  <item key="AllergiesEntrySectionObservationCodeSystem" value="2.16.840.1.113883.5.4"/>
+  <item key="AllergiesEntrySectionObservationStatusCode" value="completed"/>
+  <item key="AllergiesEntrySectionEntryRelationshipTypeCode" value="MFST"/>
+  <item key="AllergiesEntrySectionEntryRelationshipInversionInd" value="true"/>
+  <item key="AllergiesEntrySectionDocumentCodeXsitype1" value="CE"/>
+  <item key="AllergiesEntrySectionDocumentCodeSystem1" value="2.16.840.1.113883.6.96"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot" value="2.16.840.1.113883.10.20.1.39"/>
+  <item key="AllergiesEntrySectionObservationClassCode1" value="OBS"/>
+  <item key="AllergiesEntrySectionObservationMoodCode1" value="EVN"/>
+  <item key="AllergiesEntrySectionObservationCode1" value="33999-4"/>
+  <item key="AllergiesEntrySectionObservationCodeSystem1" value="2.16.840.1.113883.6.1"/>
+  <item key="AllergiesEntrySectionObservationDisplayName1" value="Status"/>
+  <item key="AllergiesEntrySectionObservationStatusCode1" value="completed"/>
+  <item key="AllergiesEntrySectionEntryRelationshipTypeCode1" value="REFR"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot1" value="2.16.840.1.113883.10.20.1.18"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot2" value="2.16.840.1.113883.10.20.1.28"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.5"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot4" value="1.3.6.1.4.1.19376.1.5.3.1.4.6"/>
+  <item key="AllergiesEntrySectionTemplateIDRoot5" value="2.16.840.1.113883.10.20.1.18"/>
+  <item key="AllergiesEntrySectionTemplateIDAuthorityName1" value="CCD"/>
+  <item key="AllergiesEntrySectionTemplateIDAuthorityName2" value="CCD"/>
+  <item key="AllergiesEntrySectionTemplateIDAuthorityName3" value="IHE PCC"/>
+  <item key="AllergiesEntrySectionTemplateIDAuthorityName4" value="IHE PCC"/>
+  <item key="AllergiesEntrySectionObservationClassCode2" value="OBS"/>
+  <item key="AllergiesEntrySectionObservationMoodCode2" value="EVN"/>
+  <item key="AllergiesEntrySectionObservationIdRoot" value="4adc1020-7b14-11db-9fe1-0800200c9a66"/>
+  <item key="AllergiesEntrySectionObservationCode2" value="416098002"/>
+  <item key="AllergiesEntrySectionObservationCodeSystem2" value="2.16.840.1.113883.6.96"/>
+  <item key="AllergiesEntrySectionObservationDisplayName2" value="drug allergy"/>
+  <item key="AllergiesEntrySectionObservationCodeSystemName2" value="SNOMED CT"/>
+  <item key="AllergiesEntrySectionObservationStatusCode2" value="completed"/>
+  <item key="AllergiesEntrySectionObservationEffectiveTimeNull2" value="UNK"/>
+  <item key="AllergiesEntrySectionObservationParticipant2" value="CSM"/>
+  <item key="AllergiesEntrySectionEntryRelationshipTypeCode2" value="SUBJ"/>
+  <item key="AllergiesEntrySectionEntryRelationshipInversionInd1" value="false"/>
+  <item key="AllergiesEntrySectionACTemplateIDRoot1" value="2.16.840.1.113883.3.88.11.83.6"/>
+  <item key="AllergiesEntrySectionACTemplateIDRoot2" value="2.16.840.1.113883.10.20.1.27"/>
+  <item key="AllergiesEntrySectionACTemplateIDRoot3" value="1.3.6.1.4.1.19376.1.5.3.1.4.5.1"/>
+  <item key="AllergiesEntrySectionACTemplateIDRoot4" value="1.3.6.1.4.1.19376.1.5.3.1.4.5.3"/>
+  <item key="AllergiesEntrySectionACTemplateIDAuthorityName1" value="HITSP C83"/>
+  <item key="AllergiesEntrySectionACTemplateIDAuthorityName2" value="CCD"/>
+  <item key="AllergiesEntrySectionACTemplateIDAuthorityName3" value="IHE PCC"/>
+  <item key="AllergiesEntrySectionACTemplateIDAuthorityName4" value="IHE PCC"/>
+  <item key="AllergiesEntrySectionACTIdRoot" value="36e3e930-7b14-11db-9fe1-0800200c9a66"/>
+  <item key="AllergiesEntrySectionACTCodeNull" value="NA"/>
+  <item key="AllergiesEntrySectionACTStatusCode" value="completed"/>
+  <item key="AllergiesEntrySectionACTEffectiveTimeNull" value="UNK"/>
+  <item key="AllergiesEntrySectionEntryTypeCode" value="DRIV"/>
+
+</section>
+
+
