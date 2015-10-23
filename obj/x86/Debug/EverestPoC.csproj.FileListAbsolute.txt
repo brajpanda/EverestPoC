@@ -1,0 +1,15 @@
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\EverestPoC.exe
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\EverestPoC.pdb
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.dll
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.Formatters.XML.Datatypes.R1.dll
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.Formatters.XML.ITS1.dll
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.RMIM.UV.CDAr2.dll
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.xml
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.Formatters.XML.Datatypes.R1.xml
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.Formatters.XML.ITS1.xml
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\bin\Debug\MARC.Everest.RMIM.UV.CDAr2.xml
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\obj\x86\Debug\EverestPoC.exe
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\obj\x86\Debug\EverestPoC.pdb
+D:\Code\PoC\MU2014\EverestPoC\EverestPoC\obj\x86\Debug\EverestPoC.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\obj\x86\Debug\EverestPoC.exe
+D:\Code\GitHub\obj\x86\Debug\EverestPoC.pdb
